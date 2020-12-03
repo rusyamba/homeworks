@@ -10,6 +10,7 @@ public class Human {
     String hobby;
     String gender;
 
+
     public void setName(String name){
         this.name = name;
     }

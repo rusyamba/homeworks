@@ -36,5 +36,7 @@ public class Main {
 
         Farm farm2 = new Farm(address1,cow6, sheep4, horse3, owner1);
         farm2.printInfo();
+
+        
     }
 }
